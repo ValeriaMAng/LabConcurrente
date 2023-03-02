@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.049 s - in unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest
+isPrimeSequentialBigNumber  Time elapsed: 0.022 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0.001 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.008 s
+isPrimeConcurrent  Time elapsed: 0.001 s
+isNotPrimeConcurrent  Time elapsed: 0.001 s
+oneIsNotPrime  Time elapsed: 0 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.001 s
+isPrimeSequential  Time elapsed: 0 s
+zeroIsNotPrime  Time elapsed: 0 s
+isNotPrimeSequential  Time elapsed: 0 s
+negativeIsPrime  Time elapsed: 0.001 s
